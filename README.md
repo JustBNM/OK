@@ -1,2 +1,2 @@
 # OK
-4-days project
+1-month project
